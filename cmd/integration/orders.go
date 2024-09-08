@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/go-applied-concurrency/models"
+	"github.com/johnifegwu/go-applied-concurrency/models"
 )
 
 const simulationCount int = 19

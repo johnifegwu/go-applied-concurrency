@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/go-applied-concurrency/models"
+	"github.com/johnifegwu/go-applied-concurrency/models"
 )
 
 const productInputPath string = "./input/products.csv"

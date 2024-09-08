@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/go-applied-concurrency/models"
+	"github.com/johnifegwu/go-applied-concurrency/models"
 )
 
 const WorkerCount = 3

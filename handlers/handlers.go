@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-applied-concurrency/models"
-	"github.com/go-applied-concurrency/repo"
 	"github.com/gorilla/mux"
+	"github.com/johnifegwu/go-applied-concurrency/models"
+	"github.com/johnifegwu/go-applied-concurrency/repo"
 )
 
 // handler holds all the dependencies required for server requests
